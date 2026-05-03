@@ -16,7 +16,7 @@ momentum and credibility. Submit a PR editing this file — see
 
 | Organization | Industry | Use Case | Contact |
 |---|---|---|---|
-| | | | |
+| [Nobulex](https://github.com/arian-gogani/nobulex) | AI Agent Security | Bilateral receipt primitive for tamper-evident agent audit trails (PRs #1302, #1333) | [@arian-gogani](https://github.com/arian-gogani) |
 
 ## Academic / Research
 
